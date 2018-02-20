@@ -1,5 +1,6 @@
 # Video_Games
 
+## Frogger
 ### Starting Frogger Game:
  1) Download the frogger.js file and the frogger.html file.
  2) Open the frogger.html file. 
@@ -15,6 +16,7 @@
 button each time the window pops-up to successfully reset the game.
 
 
+## Pong
 ### Starting Pong Game:
  1) Download the pong.js file and the pong.html file.
  2) Open the pong.html file. 
