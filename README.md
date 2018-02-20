@@ -7,12 +7,12 @@
 ### Frogger Rules:
  1) Player scores by reaching the top boundary of the game play area. The game play area is bounded by heavy black lines. 
  2) Once player crosses the top boundary, the green box will reset to its orginal location. 
- 3) Try not to hold onto the square after you reach the top boundary because the green box might get hit by the yellow square if you keep moving.
  4) Player loses a life if the green box is hit by the other boxes.
  5) If the player receives 10 points, the player has won and the game will be reset.
  6) If the player loses all three of his or her lives, then the player loses and the game will be reset. 
 ### Frogger Game Play:
   1) You use the arrow keys to move the green box.
+  2) Try not to hold down the up arrow key after you reach the top boundary because the green box keeps moving and may get hit.
 ### Frogger Notes:
  1) A window will pop up if the player wins or loses. The window will pop-up twice, which means the player must click the 'Ok'
 button each time the window pops-up to successfully reset the game.
